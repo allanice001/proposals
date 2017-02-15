@@ -5,16 +5,32 @@
 
 *Date*: 2017/{mm}/{dd}
 
-- Status: New
-- Proposal type:
+*Status*:
+  - [ ] New
+  - [ ] Approved
+  - [ ] Pending
+  - [ ] Complete
+
+*Proposal type*:
   - [ ] Core
   - [ ] Design
   - [ ] Process
   - [ ] Other
-- Targeted Release: <future release #, ex. 2.4>
-- Associated PR: <link to GH PR in ansible/proposals if PR was submitted>
-- Estimated time to implement: <X days, weeks, etc.>
 
+*Targeted Release*: <future release #, ex. 2.4>
+*Associated PR*: <link to GH PR in ansible/proposals if PR was submitted>
+*Estimated time to implement*: <X days, weeks, etc.>
+
+
+*Proposal Meeting*:
+- [ ] Tuesday @ 19:00 UTC
+- [ ] Thursday @ 15:00 UTC
+
+*Deadline for final submission of questions*:
+- [ ] 2 Weeks
+- [ ] 3 Weeks
+- [ ] 4 Weeks
+- [ ] 5 Weeks (With Core agreements)
 
 ## Motivation
 Describe the reasons for this proposal.
